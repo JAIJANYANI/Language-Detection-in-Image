@@ -48,20 +48,30 @@ python ocr.py -i image_path.jpg
 ```
 
        
-
-## Screenshots
-
-
-
-
-
-
-## Output
+## Input 1
+```$ python ocr_itt.py -i e.jpg```
+![e](https://user-images.githubusercontent.com/15799933/31809000-60ffe726-b593-11e7-95ab-e29f7c6d8153.jpg)
+##Output
 ```
-
-
+English
+Confidence score is 78.6614583333
 ```
-
+## Input 2
+```$ python ocr_itt.py -i h.jpg```
+![h](https://user-images.githubusercontent.com/15799933/31809002-619ba3aa-b593-11e7-800f-8147d357b6e0.jpg)
+##Output
+```
+Hindi
+Confidence score is 84.2118644068
+```
+## Input 3
+```$ python ocr_itt.py -i s.jpg```
+![s](https://user-images.githubusercontent.com/15799933/31809001-614bb534-b593-11e7-8c40-6cc07e5c6738.jpg)
+##Output
+```
+Spanish
+Confidence score is 69.7443609023
+```
 
        
 ## Author
