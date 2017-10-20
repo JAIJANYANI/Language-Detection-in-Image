@@ -1,5 +1,5 @@
 # Language-Detection-in-Image
-Detects and Recognize text and font language in an image
+Detects and Recognizes text and font language in an image
 ## Description
 Performed this analysis using The Tesseract OCR Engine.
 
@@ -40,10 +40,10 @@ pip install tesserocr
 
 ## Running
 
-* Simply run this command from root directory.
+* Simply Clone the repository and run this command from root directory.
 
 ```
-python ocr.py -i image_path.jpg
+python ocr_itt.py -i <image_path.jpg>
 
 ```
 
