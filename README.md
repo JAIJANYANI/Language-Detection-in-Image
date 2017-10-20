@@ -1,4 +1,4 @@
-# Language-Detection-in-Image
+# Text-Language-Detection-in-Image
 Detects and Recognizes text and font language in an image
 ## Description
 Performed this analysis using The Tesseract OCR Engine.
