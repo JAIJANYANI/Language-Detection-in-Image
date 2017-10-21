@@ -65,3 +65,4 @@ else:
         print("Confidence score is " + str(sumarr))
         api.Init(lang = 'hin')
         api.SetImageFile(images[0])
+        
